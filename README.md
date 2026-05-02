@@ -269,4 +269,3 @@ Frontend runs at: `http://localhost:3000`
 
 ---
 
-Built with ❤️ — Expensio
